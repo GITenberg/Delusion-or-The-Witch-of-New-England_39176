@@ -1,0 +1,29 @@
+_repo: Delusion-or-The-Witch-of-New-England_39176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Eliza Buckminster
+    birthdate: 1788
+    deathdate: 1864
+    gutenberg_agent_id: '39879'
+    url: http://www.gutenberg.org/2009/agents/39879
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lee
+description: ''
+gutenberg_issued: '2012-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salem (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PS'
+- !lcsh 'Witchcraft -- New England -- Fiction'
+title: Delusion; or, The Witch of New England
+url: http://www.gutenberg.org/ebooks/39176
